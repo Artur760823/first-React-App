@@ -5,7 +5,7 @@ const articles = [
     {
         id: 1,
         title: "Czym jest teoria strun",
-        author: "Jan Nowak",
+        author: "Artur Zajączkowski",
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet harum accusamus vel impedit necessitatibus corporis fugit earum, consequuntur facere, dolores enim sunt? Nobis eos placeat, reiciendis impedit et voluptas fuga. Vivamus est eros, mollis ut bibendum in, ultricies eget dolor. ",
     },
     {
